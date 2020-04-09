@@ -1,0 +1,9 @@
+C:\Users\Mr Tokin\source\repos\color 1-a-2\color 1-a-2\obj\Debug\color 1-a-2.csprojAssemblyReference.cache
+C:\Users\Mr Tokin\source\repos\color 1-a-2\color 1-a-2\obj\Debug\color_1_a_2.Properties.Resources.resources
+C:\Users\Mr Tokin\source\repos\color 1-a-2\color 1-a-2\obj\Debug\color 1-a-2.csproj.GenerateResource.cache
+C:\Users\Mr Tokin\source\repos\color 1-a-2\color 1-a-2\bin\Debug\color 1-a-2.exe.config
+C:\Users\Mr Tokin\source\repos\color 1-a-2\color 1-a-2\bin\Debug\color 1-a-2.exe
+C:\Users\Mr Tokin\source\repos\color 1-a-2\color 1-a-2\bin\Debug\color 1-a-2.pdb
+C:\Users\Mr Tokin\source\repos\color 1-a-2\color 1-a-2\obj\Debug\color 1-a-2.exe
+C:\Users\Mr Tokin\source\repos\color 1-a-2\color 1-a-2\obj\Debug\color 1-a-2.pdb
+C:\Users\Mr Tokin\source\repos\color 1-a-2\color 1-a-2\obj\Debug\color_1_a_2.Form1.resources
